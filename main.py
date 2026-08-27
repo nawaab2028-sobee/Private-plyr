@@ -23,7 +23,7 @@ from utils.text import display_title
 # Public domain used in every generated link. ONLY line to edit if this
 # service's Render domain ever changes.
 PUBLIC_BASE_URL = os.environ.get(
-    "PUBLIC_BASE_URL", "pw-universal-live-pro-player.vercel.app"
+    "PUBLIC_BASE_URL", "pw-universal-live-player.koyeb.com"
 )
 # "https://" scheme zaroori hai warna generated link (jaise
 # "domain.com/CODE/https://...") ek valid absolute URL nahi banta —
